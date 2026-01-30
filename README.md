@@ -1,3 +1,7 @@
+This library is a fork from https://github.com/nhutchison/IBusBM/tree/master including support for AFHDS3 style message (with 18 channels) but still compatible with the 14 channels iBus, and SAMD21 architecture.   
+Compatible now with ESP32 core 2.x.y and 3.x.y . New timer initialisation for ESP32 core 2.x.y
+
+
 # Arduino Flysky/Turnigy RC iBus protocol handler
 Arduino library for Flysky/Turnigy RC iBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART.
 
